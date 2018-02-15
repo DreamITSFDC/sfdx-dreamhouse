@@ -59,5 +59,9 @@ public with sharing class BotController {
         }
         
     }
+
+public static void test(){
+            System.debug('Test Method');
+}
     
 }
